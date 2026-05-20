@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+ul{
+    color: darkgreen;
+}
+
+.a{
+    color: #D6DCE8;
+    line-height: 30px;
+}
+
+.b{
+    color: #AAB6C8;
+    line-height: 30px;
+}
+
+h2{
+    color: #D6DCE8;
+}
+
+footer{
+    position: fixed;
+    bottom: 2px;
+}
+
+a{
+    color: red;
+}
